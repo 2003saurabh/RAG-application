@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+pdfplumber
+python-dotenv
+plotly
+pandas
+langchain-ollama
